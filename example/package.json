@@ -1,0 +1,13 @@
+{
+  "registry": "jspm",
+  "main": "bin/browser",
+  "dependencies": {
+    "jsx": "^0.1.1"
+  },
+  "scripts": {
+    "start": "http-server"
+  },
+  "devDependencies": {
+    "http-server": "^0.7.4"
+  }
+}

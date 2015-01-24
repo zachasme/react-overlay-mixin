@@ -1,0 +1,36 @@
+{
+  "name": "react-overlay-mixin",
+  "description": "An overlay mixin for React",
+  "license": "MIT",
+  "version": "0.0.1",
+  "author": "Zacharias Knudsen",
+
+  "format": "es6",
+
+  "directories": {
+    "lib": "lib",
+    "example": "example"
+  },
+  "main": "overlay_mixin",
+
+  "homepage": "https://github.com/zachasme/react-overlay-mixin",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zachasme/react-overlay-mixin.git"
+  },
+  "bugs": {
+    "url": "https://github.com/zachasme/react-overlay-mixin/issues"
+  },
+
+  "scripts": {
+    "test": "echo \"TODO: Make errors\" && exit 1"
+  },
+
+  "registry": "jspm",
+  "jspm": {
+    "dependencies": {
+      "jsx": "^0.1.1",
+      "react": "^0.12.2"
+    }
+  }
+}
